@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Erika
 #### I am a passionate Full-Stack Software Engineer
-![I am a passionate Full-Stack Software Engineer]
+
 
 Space enthusiast and Illustrator turned software engineer, lifelong tinkerer committed to social advocacy, 
 environmentalism and wellness, looking to shape the world one line of code at a time. 
