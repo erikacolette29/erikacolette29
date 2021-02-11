@@ -23,5 +23,5 @@ environmentalism and wellness, looking to shape the world one line of code at a 
 - 👯 I’m looking to collaborate on: Reactjs
 - 🤔 I’m looking for help with: Landing a job
 - 💬 Ask me about: Anything 
-- 😄 Pronouns: She/Her
+
 
