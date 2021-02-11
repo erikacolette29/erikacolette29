@@ -6,7 +6,7 @@ environmentalism and wellness, looking to shape the world one line of code at a 
 
 ---
 
-- 📫 Connect with me at: [linkedin](https://www.linkedin.com/in/erikatidwell/)
+- 📫 Connect with me on: [linkedin](https://www.linkedin.com/in/erikatidwell/)
 
 ### Here are some of my most used skills:
 
