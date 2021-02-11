@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Erika 👩‍💻
 
-<!--
-**erikacolette29/erikacolette29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Space enthusiast and Illustrator turned software engineer, lifelong tinkerer committed to social advocacy, 
+environmentalism and wellness, looking to shape the world one line of code at a time. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me at: [linkedin](https://www.linkedin.com/in/erikatidwell/)
+
+
+- 🌱 I’m currently learning: Sass, Python
+- 👯 I’m looking to collaborate on: Reactjs
+- 🤔 I’m looking for help with: Landing a front-end job
+- 💬 Ask me about: Anything 
+
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 
 -->
