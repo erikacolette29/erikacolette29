@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Erika
+### Hi there 👋 , my name is Erika
 #### I am a passionate Full-Stack Software Engineer
 
 
